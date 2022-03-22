@@ -6,7 +6,7 @@ function App() {
   const [cardData, setCardData] = useState([
     {
       linkName: "Bookmark (Link) Name",
-      linkHref: "https://github.com/pramit-marattha",
+      linkHref: "https://github.com/sayak-2002",
     },
   ]);
 
