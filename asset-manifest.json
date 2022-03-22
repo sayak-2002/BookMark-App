@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookMark-App/static/css/main.e7e6f3db.css",
+    "main.js": "/BookMark-App/static/js/main.e9e93335.js",
+    "static/js/787.82473f5e.chunk.js": "/BookMark-App/static/js/787.82473f5e.chunk.js",
+    "index.html": "/BookMark-App/index.html",
+    "main.e7e6f3db.css.map": "/BookMark-App/static/css/main.e7e6f3db.css.map",
+    "main.e9e93335.js.map": "/BookMark-App/static/js/main.e9e93335.js.map",
+    "787.82473f5e.chunk.js.map": "/BookMark-App/static/js/787.82473f5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e6f3db.css",
+    "static/js/main.e9e93335.js"
+  ]
+}
